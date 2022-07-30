@@ -8,8 +8,8 @@ You can check the first version (v1.0) from here : <br>
 https://github.com/mohamed0tarek/Typing-Speed-Test-Game-version-1
 
 ## How to work
-* click start 
-* start typing
+* Click start 
+* Start typing
 * Once you finish typing, result will be shown.
 
 ## Technologies
@@ -18,7 +18,7 @@ https://github.com/mohamed0tarek/Typing-Speed-Test-Game-version-1
 * CSS
 
 
-## link to preview
+## Link to preview
 https://mohamed0tarek.github.io/Typing-Speed-Test-Game-version-2-/
 
 
