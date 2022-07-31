@@ -6,6 +6,9 @@ In this version of the game, The paragraph will appear completely. The letter yo
 #### NOTE
 You can check the first version (v1.0) from here : <br>
 https://github.com/mohamed0tarek/Typing-Speed-Test-Game-version-1
+<br><br>
+You can check a same copy of this version, but working with `Json` this time :
+https://mohamed0tarek.github.io/Typing-Speed-Test-Game-version-2--Using-Json-/
 
 ## How to work
 * Click start 
