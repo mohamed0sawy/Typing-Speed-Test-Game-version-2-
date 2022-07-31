@@ -107,14 +107,6 @@ function createSpans(arr) {
 	return temp;
 }
 
-function isValidKey(e) {
-	var charCode = e.keyCode || e.which;
-	if (charCode == 8) {
-		console.log(e.code);
-		return false;
-	}
-	return true;
-}
 
 //main funciton
 function main() {
